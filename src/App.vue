@@ -119,7 +119,7 @@
 }
 </style>
 <script>
-  import HelloWorld from './components/HelloWorld'
+  import HelloWorld from './components/Home'
   import Shop from './components/Shop'
 
   export default {
